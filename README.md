@@ -1,6 +1,7 @@
 # out-of-home-face
 hey
 - photo out of home,
+![fake text](./pic1.png)
 
 - photo quelquun est partout comme "out of home" ,
 
