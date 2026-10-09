@@ -45,5 +45,5 @@ postuler(entreprise="Entreprise de l'affiche", vu_ou="Gare d'une ville", canal="
 *Comment faire correctement:*
 
 1. *Job:* 1 email pro à l'entreprise (pas à la personne sur l'affiche) avec CV. Tu ne mentionnes pas le dating.
-2. *Dating:* je ne peux pas t'aider 
+2. *Dating:* je ne peux pas t'aider , tu postules pour un "dating musical" avec une signature musicale , des notes de musique via un contact form
 
