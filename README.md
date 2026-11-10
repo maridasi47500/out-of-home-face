@@ -1,5 +1,8 @@
 # out-of-home-face
 hey
+- une personne est incrustée  dans une publicité un commentaire ou auteurs dans d'un post, dans chaque page
+- tu dois postuler pour ce job toujours en utilisant le nom de la personne, la réputation, la personne en destinataire, etc.
+- 
 - photo out of home,
 ![fake text](./pic1.png)
 
